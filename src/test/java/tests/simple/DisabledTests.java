@@ -17,4 +17,5 @@ public class DisabledTests {
     void test2() {
         assertTrue(false);
     }
+
 }
